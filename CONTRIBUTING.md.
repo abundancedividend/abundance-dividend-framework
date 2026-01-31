@@ -1,0 +1,13 @@
+Contributing to the Abundance Dividend Framework (ADF)
+Thank you for your interest in building an open-source economic operating system. This project is "Built in Public," and we value the input of economists, developers, and visionaries.  
+How You Can Help
+We are looking for contributions in the following areas:
+• Logic Refinement: Reviewing the economic "if/then" logic for potential flaws or "logic branches".  
+• Technical Implementation: Helping translate narrative chapters into Python scripts or MermaidJS flowcharts.  
+• Data Visualization: Helping visualize the equations and variables discussed in the framework.  
+• Clarity: Fixing typos or suggesting better ways to explain complex economic variables.  
+The Process
+1. Check the "Issues" Tab: Look for tasks tagged with good first issue to get started.  
+2. Submit a Pull Request: If you have a fix or a logic branch, submit it for review.  
+3. Join the Debate: Use the "Discussions" or "Issues" tab to provide counter-points to current ADF theory.  
+"We aren't just writing words; we are writing code."

@@ -1,5 +1,6 @@
 # abundance-dividend-framework
 "An open-source economic operating system built for an automated future."
+
 How this Repo Connects to the Book
 This repository is the technical companion to the Abundance Dividend Framework (ADF) book series hosted on Substack.  
 While the book explores the narrative, history, and social implications of a post-scarcity economy, this GitHub repository serves as the "Economic Operating System". Here, we translate abstract economic theories into:  
